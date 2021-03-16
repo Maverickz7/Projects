@@ -1,19 +1,13 @@
 # Tic-Tac-Toe
 
-This repository contains python based interactive Tic-Tac-Toe game.
+This repository contains the python based famous game of Tic-Tac-Toe.
 
-## Running Tic-Tac-Toe:
+## How to run Tic-Tac-Toe :
 
 ```
-git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 python main.py
 ```
-
-<p align="center">
-<img src="/images/preview.gif">
-</p>
-
 
 </p>
 
