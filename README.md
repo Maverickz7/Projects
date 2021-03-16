@@ -14,9 +14,6 @@ python main.py
 <img src="/images/preview.gif">
 </p>
 
-## Screenshots
-<p align="center">
-<img width=1000 src="/images/screenshot.png">
 
 </p>
 
@@ -30,5 +27,5 @@ python main.py
 
 
 ## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
+Devansh Kumar
 
